@@ -28,6 +28,3 @@ import re
 
 Assumption:
 All the data set is seprated by single space
-
-Bonus:
-I have done for 2 dimensional and 3 dimensional scatter plot
